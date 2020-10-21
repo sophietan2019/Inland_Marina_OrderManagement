@@ -1,0 +1,12 @@
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\MarinaData.dll.config
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\MarinaData.dll
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\MarinaData.pdb
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\EntityFramework.dll
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\EntityFramework.xml
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\obj\Debug\MarinaData.csprojAssemblyReference.cache
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\obj\Debug\MarinaData.csproj.CoreCompileInputs.cache
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\obj\Debug\MarinaData.csproj.CopyComplete
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\obj\Debug\MarinaData.dll
+C:\Users\591052\source\repos\Inland_Marina\MarinaData\obj\Debug\MarinaData.pdb

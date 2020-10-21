@@ -1,0 +1,15 @@
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\MarinaData.dll
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\EntityFramework.dll
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\MarinaData.pdb
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\MarinaData.dll.config
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\EntityFramework.xml
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\591052\source\repos\Inland_Marina\ConsoleTest\bin\Debug\EntityFramework.SqlServer.xml
